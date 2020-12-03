@@ -1,8 +1,8 @@
-<div class="col-lg-4 mx-auto my-4">
-    <nav class="d-flex justify-content-between">
+<div class="col-sm-10 col-md-8 col-lg-6 col-xl-5 mx-auto my-4">
+    <nav class="d-flex flex-column align-items-center">
         <h2><a href="./?page=agenda" class="text-dark">Agenda Virtual</a></h2>
 
-        <a href="./?page=nuevoContacto" class="btn btn-info">Nuevo Contacto</a>
+        <a href="./?page=nuevoContacto" class="btn btn-primary align-self-end mt-2" style="width: 180px;">Nuevo Contacto</a>
     </nav>
 
     <?php

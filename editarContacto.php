@@ -1,4 +1,4 @@
-<div class="col-lg-4 mx-auto">
+<div class="col-sm-10 col-md-8 col-lg-6 col-xl-4 mx-auto">
     <h1 class="my-5">Editar Contacto</h1>
 
     <?php
